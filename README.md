@@ -35,10 +35,12 @@ I love problem solving and learning mew algorithm.<br/><br/>
 
 ### 🚀 Quick Stats
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MrUltimate-Karn&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MrUltimate-Karn&row=1)](https://github.com/ryo-ma/github-profile-trophy)</p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrUltimate-Karn&show_icons=true&line_height=21&theme=react" alt="MrUltimate-Karn's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUltimate-Karn&theme=react&line_height=27&layout=compact" />
 </p>
-
+<p align="center">
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MrUltimate-Karn&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=MrUltimate-Karn)
