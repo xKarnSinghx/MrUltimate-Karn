@@ -41,6 +41,4 @@ I love problem solving and learning mew algorithm.<br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUltimate-Karn&theme=react&line_height=27&layout=compact" />
 </p>
 <br>
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MrUltimate-Karn&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MrUltimate-Karn)
