@@ -31,6 +31,5 @@ I love problem solving and learning mew algorithm.<br/><br/>
   - 📊 Machine Learning & Data Science
   - 🖼 Web Development
 - 👯 I’m looking to collaborate on making  projects related to machine learning and web development. 
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about  ML,WebDev and CP.
+- 💬 Ask me about ML,WebDev and CP.
 
