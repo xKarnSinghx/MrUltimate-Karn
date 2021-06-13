@@ -39,6 +39,8 @@ I love problem solving and learning mew algorithm.<br/><br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrUltimate-Karn&show_icons=true&line_height=21&theme=react" alt="MrUltimate-Karn's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUltimate-Karn&theme=react&line_height=27&layout=compact" />
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUltimate-Karn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 
