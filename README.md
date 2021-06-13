@@ -24,4 +24,13 @@ I'm an **Undergrad Student🎓 [@NIT Patna](https://www.nitp.ac.in)** pursuing B
 I love problem solving and learning mew algorithm.<br/><br/>
 
 
+## ⚡️ A Few Quick Facts
+
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Web Development
+- 👯 I’m looking to collaborate on making  projects related to machine learning and web development. 
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about  ML,WebDev and CP.
 
