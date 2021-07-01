@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@NIT Patna](https://www.nitp.ac.in)** pursuing BTech-CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.
-I love problem solving and learning mew algorithm.<br/><br/>
+I love problem solving and learning new algorithm.<br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
